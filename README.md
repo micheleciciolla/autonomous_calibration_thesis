@@ -7,5 +7,5 @@ This Master Thesis project is developed with the support of the Star s.r.l compa
 
 <a href="https://lmi3d.com/products/gocator/hexsight"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flmi3d.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Flmitechnologieslogo-alt.png&f=1&nofb=1" width="300"></a>
 
-The goal of this thesis is to let the calibration process of the cameras be autonomous and human-interaction free as opposed to what is being done now given that both the pixel coordinates and real world coordinates grabbing process needs the work of a human operator.
+The goal of this thesis is to let the calibration process of the cameras be autonomous and human-interaction free as opposed to what is being done now, given that both the pixel coordinates and real world coordinates grabbing process needs the work of a human operator.
 
