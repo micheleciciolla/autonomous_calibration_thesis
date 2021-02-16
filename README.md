@@ -9,3 +9,6 @@ This Master Thesis project is developed with the support of the Star s.r.l compa
 
 The goal of this thesis is to let the calibration process of the cameras be autonomous and human-interaction free as opposed to what is being done now, given that both the pixel coordinates and real world coordinates grabbing process needs the work of a human operator.
 
+
+## Video Demo
+[![SC2 Video](./demo.mp4)]() 
