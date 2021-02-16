@@ -11,4 +11,4 @@ The goal of this thesis is to let the calibration process of the cameras be auto
 
 
 ## Video Demo
-![](./demo.mp4)
+![](./demo.gif)
