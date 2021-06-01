@@ -1,0 +1,75 @@
+MODULE MainModule
+    ! DEFAULT OBTAINED TOOL
+    TASK PERS tooldata toolSmall:=[TRUE,[[-24.7945,-34.5398,340.088],[1,0,0,0]],[10,[1,1,0],[1,0,0,0],0,0,0]];
+
+    ! THIS IS THE ALTIDUTE OF WORK
+    CONST num plane_height:=735.26;
+
+    ! SOME USEFUL KNOWN POSITIONS
+    CONST robtarget pSTART:=[[-1504.53,-328,plane_height],[0.03065,0.70649,-0.03704,-0.70609],[-2,2,-3,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget pEND:=[[-1351.35,-576.6,plane_height],[0.03065,0.70649,-0.03704,-0.70609],[-2,2,-3,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    ! TEST POSITION WHERE THE ROBOT GOES TO AT THE END OF THE PROC
+    CONST robtarget pTEST:=[[-1400,-400,plane_height],[0.03065,0.70649,-0.03704,-0.70609],[-2,2,-3,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    TASK PERS tooldata toolTarget:=[TRUE,[[-23.3559,1.73795,309.159],[1,0,0,0]],[1,[0,0,0],[1,0,0,0],0,0,0]];
+
+    PROC main()
+        ! _______________PROGRAM PARAMS_______________
+        ! SECONDS TO WAIT BEFORE MOVE TO THE NEXT POSE
+        CONST num pausetime:=1;
+        ! ROWS AND COLUMNS DESIRED FOR THE CALIBRATION GRID PATH
+        CONST num desired_rows:=5;
+        CONST num desired_columns:=10;
+        ! STARTING POSITION
+        CONST num startx:=-1504.53;
+        CONST num starty:=-328;
+        ! ENDIND POSITION
+        CONST num endx:=-1351.35;
+        CONST num endy:=-576.6;
+        ! ___________________________________________
+        VAR num dx:=(endy-starty)/(desired_columns-1);
+        VAR num dy:=(endx-startx)/(desired_rows-1);
+
+        ! USED VARIABLES
+        VAR num nexty;
+        VAR num nextx;
+        VAR robtarget nextpose;
+
+        ! ABS FUNCTION
+        IF dx<0 THEN
+            dx:=-dx;
+        ENDIF
+        ! ABS FUNCTION
+        IF dy<0 THEN
+            dy:=-dy;
+        ENDIF
+
+        IF starty>endy THEN
+            dy:=-dy;
+        ENDIF
+
+        IF startx>endx THEN
+            dx:=-dx;
+        ENDIF
+
+        MoveJ pSTART,v500,fine,toolSmall;
+        ! MAIN PROCEDURE
+        FOR c FROM 0 TO (desired_rows-1) DO
+            ! COLUMN COORDINATE
+            nextx:=startx+c*dx;
+            ! nextx:=pSTART.trans.x+c*dx;
+            FOR r FROM 0 TO (desired_columns-1) DO
+                ! ROW COORDINATE
+                ! nexty:=pSTART.trans.y+r*dy;
+                nexty:=starty+r*dy;
+                nextpose:=[[nextx,nexty,plane_height],[0.03065,0.70649,-0.03704,-0.70609],[-2,2,-3,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
+
+                MoveJ nextpose,v500,fine,toolSmall;
+                WaitTime pausetime;
+            ENDFOR
+        ENDFOR
+        ! go the test position
+        MoveJ pTEST,v500,fine,toolSmall;
+
+
+    ENDPROC
+ENDMODULE

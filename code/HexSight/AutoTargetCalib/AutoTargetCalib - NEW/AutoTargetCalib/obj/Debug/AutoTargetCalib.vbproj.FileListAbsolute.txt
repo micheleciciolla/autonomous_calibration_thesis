@@ -1,0 +1,96 @@
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbprojAssemblyReference.cache
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.ResolveComReference.cache
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.Form1.resources
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.Resources.resources
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.GenerateResource.cache
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\obj\Debug\AxInterop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib\AutoTargetCalib\bin\Debug\AxInterop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AxInterop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbprojAssemblyReference.cache
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AxInterop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.ResolveComReference.cache
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.Form1.resources
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.Resources.resources
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.GenerateResource.cache
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\AutoTargetCalib-20210501T192005Z-001\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbprojAssemblyReference.cache
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AxInterop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.ResolveComReference.cache
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.Form1.resources
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.Resources.resources
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.GenerateResource.cache
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.vbproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\obj\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.exe
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.pdb
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AutoTargetCalib.xml
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSACQUISITIONDEVICELib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSCLASSLIBRARYLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSDISPLAYLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSEXPLORERLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSIMAGEPROCESSINGLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSLOCATORLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\Interop.HSPROCESSMANAGERLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AxInterop.HSAPPLICATIONLib.dll
+C:\Users\mikel\source\repos\OK_AutoTargetCalib\AutoTargetCalib - NEW\AutoTargetCalib\bin\Debug\AxInterop.HSDISPLAYLib.dll
